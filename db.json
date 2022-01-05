@@ -14,9 +14,15 @@
     },
     {
       "id": 3,
-      "text": "Food Shopping",
-      "day": "May 7th at 12:30pm",
-      "reminder": false
+      "text": "322",
+      "day": "May 6th at 1:30pm",
+      "reminder": true
+    },
+    {
+      "id": 4,
+      "text": "4eeting at School",
+      "day": "May 6th at 1:30pm",
+      "reminder": true
     }
   ]
 }
